@@ -4,10 +4,10 @@
 ![My Skills](https://skillicons.dev/icons?i=ansible,bash,bsd,docker,kubernetes,git,github,gitlab,grafana,linux,nginx,prometheus,)
 ### My profile in social media:
 <a href="https://twitter.com/nemurenai_yuki">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="50px" src="https://skillicons.dev/icons?i=twitter" />
 </a>
 <a href="https://www.linkedin.com/in/mikhail-aksenov-b823651bb">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="50px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://t.me/mikhail_axenov">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
