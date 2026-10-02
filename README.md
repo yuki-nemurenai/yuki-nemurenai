@@ -172,9 +172,4 @@ I'm particularly interested in the intersection of **platform engineering and AI
 
 **Infrastructure · Platforms · Automation · AI**
 
-<br />
-
-> *"Hope is not a strategy."*  
-> — Google SRE Book
-
 </div>
